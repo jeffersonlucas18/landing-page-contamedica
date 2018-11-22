@@ -1,0 +1,148 @@
+html, body{
+    padding: 0px;
+    margin: 0px;
+    font-family: "Averta", Averta, sans-serif;
+}
+div.content{
+    height: 532px;
+    background: #F1F3F4;
+    color: #0073CD;
+    text-align: center;
+}
+div.logo img{
+    margin: 0 auto;
+    position: relative;
+    top: 40px;
+    right: 20px;
+    width: 220px;
+    height: auto;
+}
+div.text h1, p{
+    text-align: center;
+    color: #0073CD;
+}
+div.text h1{
+    font-size: 40px;
+    margin-top: 190px;
+}
+div.text p{
+    margin-top: -10px;
+}
+div.cards ul li{
+    width: 300px;
+    height: 230px;
+    margin: 10px;
+    position: relative;
+    right: 20px;
+    margin-top: 60px;
+    display: inline-block;
+    border-radius: 10px;
+}
+div.cards ul li.card1{
+    background: #0073CD;
+}
+div.cards ul li.card2{
+    background: #00ad91;
+}
+div.cards ul li.card3{
+    background: #0096d9;
+}
+div.img2 img{
+    width: 300px;
+    height: auto;
+    margin-top: 30px;
+}
+div.text2 p{
+    font-size: 18px;
+    color: black;
+    width: 600px;
+    margin: 0 auto;
+}
+.myButton {
+	background-color:#00c75d;
+	-moz-border-radius: 28px;
+	-webkit-border-radius: 28px;
+	border-radius: 28px;
+	border: 1px solid #18ab199;
+	display: inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	font-size:17px;
+	padding:16px 31px;
+    text-decoration:none;
+    position:relative;
+    top: 30px;
+    margin: 2px;
+	
+}
+div.buttons{
+    margin: 0 auto;
+}
+.myButton:hover {
+	background-color:#02d163;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.myButton2 {
+	background-color:#0c28e3;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #18ab199;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+    position: relative;
+    top: 30px; 
+    margin: 5px;
+}
+.myButton2:hover {
+	background-color:#0023cf;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
+}
+div.caixa{
+    border-radius: 10px;
+    background-color: #F1F3F4;
+    padding: 40px;
+    width: 800px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 60px;
+}
+div.icons img{
+    width: 35px;
+    height: auto;
+}
+div.icons ul li{
+    display: inline-block;
+    margin: 10px;
+    margin-top: 40px;
+}
+div.icons{
+    position: relative;
+    right: 35px;
+}
+hr{
+    margin-top: -20px;
+    width: 920px;
+    color: rgb(252, 249, 249);
+    position: relative;
+    left: 36px;
+}
+div.footer p{
+    text-align: center;
+    color: #414141;
+}
+div.final{
+    padding: 20px;
+}
