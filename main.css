@@ -131,8 +131,8 @@ div.text2 p{
     }
 
     .divisor {
-        margin: 0px 0px 0px 45px;
-        width: 76%;
+        margin: 0px 0px 0px 4px;
+        width: 97%;
         text-align: center;
     }
 
@@ -222,3 +222,4 @@ div.footer p{
 div.final{
     padding: 20px;
 }
+
